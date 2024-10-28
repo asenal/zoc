@@ -1,0 +1,209 @@
+{
+  "chat_list": [
+    {
+      "content": "请问您眼睛有什么不舒服？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您哪只眼睛不舒服，这种情况出现多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您哪只眼睛不舒服，这种情况出现多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您是哪只眼睛出现不适，这种情况已经持续多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您哪只眼睛不舒服，这种情况出现多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您哪只眼睛不舒服，这种情况出现多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您是哪只眼睛出现不适症状的，这种情况已经持续多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您是哪只眼睛出现不适，这种情况持续了多长时间呢？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您哪只眼睛不舒服，这种情况出现多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您哪只眼睛不舒服，这种情况出现有多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "",
+      "role": "user"
+    },
+    {
+      "content": "请问您是左眼、右眼还是双眼不舒服，这种情况出现多长时间了？",
+      "role": "AI"
+    },
+    {
+      "content": "左眼",
+      "role": "user"
+    },
+    {
+      "content": "请问发现这种情况有多久了？",
+      "role": "AI"
+    },
+    {
+      "content": "两周",
+      "role": "user"
+    },
+    {
+      "content": "眼睛开始不舒服的时候，有没有什么诱因？就是有没有发生什么特殊的事情，比如情绪激动、摔跤、眼睛受伤？",
+      "role": "AI"
+    },
+    {
+      "content": "摔跤",
+      "role": "user"
+    },
+    {
+      "content": "您近期是否出现了视力下降、眼睛疼痛、眼睛红肿或血丝增多，以及看东西时眼前有黑影等症状呢？",
+      "role": "AI"
+    },
+    {
+      "content": "眼睛疼痛",
+      "role": "user"
+    },
+    {
+      "content": "您的眼睛有受过外伤吗？仅回答是或否即可",
+      "role": "AI"
+    },
+    {
+      "content": "眼睛受伤",
+      "role": "user"
+    },
+    {
+      "content": "这次眼睛不舒服的时候，全身有什么不舒服吗",
+      "role": "AI"
+    },
+    {
+      "content": "否",
+      "role": "user"
+    },
+    {
+      "content": "您是否经常遭受眼痛，表现为刺痛、钝痛还是热痛，痛感主要位于眼睛的哪个部位，同时在强光环境下是否会感到异常刺眼或有怕光的情况？",
+      "role": "AI"
+    },
+    {
+      "content": "否",
+      "role": "user"
+    },
+    {
+      "content": "您是否正在经历眼痛伴随着同侧头痛，以及恶心呕吐的症状？",
+      "role": "AI"
+    },
+    {
+      "content": "否",
+      "role": "user"
+    },
+    {
+      "content": "这次不舒服的时候，眼睛会流眼泪吗",
+      "role": "AI"
+    }
+  ],
+  "patient_features": {
+    "EXOT": "否",
+    "GE_REN_SHI": "",
+    "GRZY": "未提及",
+    "GUO_MIN_SHI": "",
+    "JCBYY": "未提及",
+    "JCB_y_or_n": "未提及",
+    "JI_WANG_SHI": "",
+    "JZS_y_or_n": "未提及",
+    "LL_y_or_n": "未提及",
+    "PG_n": ",畏光",
+    "PG_y": "",
+    "PG_y_or_n": "否",
+    "QS_n": ",其余全身不适",
+    "QS_y": "",
+    "QS_y_or_n": "否",
+    "SHOU_SHU_SHI": "",
+    "SJ": "2周",
+    "SLXJ_n": "，视力下降",
+    "SLXJ_y": "",
+    "SLXJ_y_or_n": "否",
+    "SSYC_y_or_n": "未提及",
+    "SWBX_y_or_n": "未提及",
+    "SWGM_y_or_n": "未提及",
+    "SWSG_y_or_n": "未提及",
+    "XIAN_BING_SHI_1": "",
+    "XIAN_BING_SHI_2": "",
+    "XIAN_BING_SHI_3": "",
+    "XS_n": ",眼红",
+    "XS_y": "",
+    "XS_y_or_n": "否",
+    "YB": "左眼",
+    "YBFMW_y_or_n": "未提及",
+    "YJG_y_or_n": "未提及",
+    "YJY_n": "",
+    "YJY_y": "，眼痒",
+    "YJY_y_or_n": "是",
+    "YM_y_or_n": "未提及",
+    "YQHY_n": ",眼前黑影",
+    "YQHY_y": "",
+    "YQHY_y_or_n": "否",
+    "YTTCTT": "否",
+    "YTWZ": "未提及",
+    "YTZL": "未提及",
+    "YT_n": "",
+    "YT_y": ",眼痛",
+    "YT_y_or_n": "是",
+    "YWGM_y_or_n": "未提及",
+    "YWG_y_or_n": "未提及",
+    "YWS_y_or_n": "是",
+    "YY": "摔跤",
+    "YY_y_or_n": "是",
+    "ZHU_SU": "",
+    "ZXSYYYS_y_or_n": "未提及",
+    "ZYZZ": "患者：最近看东西有点模糊，右眼有点胀痛"
+  },
+  "response": "这次不舒服的时候，眼睛会流眼泪吗"
+}
